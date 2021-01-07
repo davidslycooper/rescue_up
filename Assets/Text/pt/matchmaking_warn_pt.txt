@@ -1,0 +1,5 @@
+Erro: Problema de conexão. Não foi possível criar uma sala.
+Erro: Problema de conexão. Não existe nenhuma sala que corresponda ao número inserido.
+Erro: Problema de conexão. O outro jogador não está numa missão de treino.
+Erro: Problema de conexão. O outro jogador está numa missão de treino.
+Erro: Problema de conexão. Um dos jogadores deve jogar como Piloto e o outro deve jogar como Engenheiro.

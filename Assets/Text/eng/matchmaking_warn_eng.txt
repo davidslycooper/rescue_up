@@ -1,0 +1,5 @@
+Error: Connection problem. It was not possible to create a room.
+Error: Connection problem. There is no room that matches the number entered.
+Error: Connection problem. The other player is not on a training mission.
+Error: Connection problem. The other player is on a training mission.
+Error: Connection problem. One player must play as a Pilot and the other must play as an Engineer.

@@ -1,0 +1,5 @@
+You partner is still performing his task. Please wait.
+You missed the target. I will load the cannon again. Try to get it right this time.
+Remember that you must press the Space key to continue or the Alt key to hear the instructions again.
+If you don't know what to do, you may press the Alt key and I will say what's your current task.
+You don't need to use that right now.

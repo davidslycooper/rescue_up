@@ -1,0 +1,5 @@
+O teu parceiro ainda está a cumprir a sua tarefa. Peço que aguardes.
+Falhaste o alvo. Vou carregar novamente o canhão. Tenta acertar desta vez.
+Recorda-te que deves premir o Espaço para continuar ou a tecla do Alt para voltar a ouvir as instruções.
+Se não sabes o que fazer, podes premir a tecla do Alt e eu digo-te qual é a tua tarefa atual.
+Não precisas de usar isso agora.
